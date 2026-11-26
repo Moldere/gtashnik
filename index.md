@@ -20,7 +20,7 @@ GTAshnik is an online channel for hilarious gameplay and custom skits. We create
 
 ## Legal Information
 
-* [Privacy Policy](./privacy)
+* [Privacy Policy](./privacy.md)
 
 ---
 
